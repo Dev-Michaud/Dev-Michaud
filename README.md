@@ -1,7 +1,7 @@
 ## 👨🏻‍💻Olá , sou o Luis!
 
 Sou estudante de Sistemas de Informação e profissional da área de tecnologia, apaixonado por tecnologia e desenvolvimento de software.
-Atualmente estou no 6º período do bacharelado em Sistemas de Informação.
+Atualmente estou no 7º período do bacharelado em Sistemas de Informação.
 Aqui você pode encontrar alguns dos meus projetos, espero que goste e se divirta!
 
 ---
