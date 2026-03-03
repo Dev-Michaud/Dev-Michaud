@@ -8,7 +8,7 @@ Aqui você pode encontrar alguns dos meus projetos, espero que goste e se divirt
 
 ## 📊 Minhas Estatísticas no GitHub  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichasISBACK&theme=transparent) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Michaud&theme=transparent) <br>
 
 ---
 ## 💻 Tecnologias e Linguagens
@@ -46,5 +46,5 @@ Aqui você pode encontrar alguns dos meus projetos, espero que goste e se divirt
 <div> 
   <a href="https://www.instagram.com/luiss_michaud/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
   <a href = "mailto:devluism1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-michaud-552625272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dev-michaud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
