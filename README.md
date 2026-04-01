@@ -1,9 +1,10 @@
 ## 👨🏻‍💻Olá , sou o Luis!
 
-Sou estudante de Sistemas de Informação e profissional da área de tecnologia, apaixonado por tecnologia e desenvolvimento de software.
-Atualmente estou no 7º período do bacharelado em Sistemas de Informação.
-Aqui você pode encontrar alguns dos meus projetos, espero que goste e se divirta!
-
+Olá, Sou Desenvolvedor Back-end focado em C# e .NET (6/8), criando APIs, serviços e integrações que realmente funcionam na prática.
+Curto trabalhar com ASP.NET Core, Entity Framework, modelagem de dados e versionamento com Git. Também venho explorando arquitetura de software, performance e organização de projetos pra manter tudo limpo, escalável e fácil de manter.
+Gosto de escrever código bem estruturado, aplicar boas práticas (Clean Architecture, SOLID) e entender o problema antes de sair codando.
+Sempre estudando, evoluindo e buscando construir soluções cada vez melhores — seja em projetos profissionais ou pessoais.
+Aberto a oportunidades e projetos desafiadores 🚀
 ---
 
 ## 📊 Minhas Estatísticas no GitHub  
@@ -30,6 +31,8 @@ Aqui você pode encontrar alguns dos meus projetos, espero que goste e se divirt
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
 
 
 ### Frameworks
