@@ -1,15 +1,11 @@
 ## 👨🏻‍💻Olá , sou o Luis!
----
-Sou Desenvolvedor Back-end focado em C# e .NET (6/8), criando APIs, serviços e integrações que realmente funcionam na prática.
-Curto trabalhar com ASP.NET Core, Entity Framework, modelagem de dados e versionamento com Git.
+Sou desenvolvedor Fullstack Jr focado em C# e .NET, com experiência na construção de APIs REST, integrações e aplicações escaláveis.
 
-Também venho explorando arquitetura de software, performance e organização de projetos pra manter tudo limpo, escalável e fácil de manter.
+Tenho foco em performance, organização de código e boas práticas como Clean Architecture e SOLID. Busco sempre entender o problema antes de codar, garantindo soluções eficientes e sustentáveis.
 
-Gosto de escrever código bem estruturado, aplicar boas práticas (Clean Architecture, SOLID) e entender o problema antes de sair codando.
-Sempre estudando, evoluindo e buscando construir soluções cada vez melhores — seja em projetos profissionais ou pessoais.
-Aberto a oportunidades e projetos desafiadores 🚀
 
----
+Atualmente evoluindo em desenvolvimento back-end com .NET, aplicando boas práticas e construindo APIs robustas
+
 
 ## 📊 Minhas Estatísticas no GitHub  
 
