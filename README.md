@@ -34,8 +34,6 @@ Aberto a oportunidades e projetos desafiadores 🚀
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" style="vertical-align: middle;"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" style="vertical-align: middle;"/>  &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" style="vertical-align: middle;"/>  &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" style="vertical-align: middle;"/>  &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" style="vertical-align: middle;"/>  &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="30" style="vertical-align: middle;"/> 
   </p>
@@ -49,6 +47,13 @@ Aberto a oportunidades e projetos desafiadores 🚀
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="30" style="vertical-align: middle;"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" style="vertical-align: middle;"/>
   </p>
+</div>
+
+### Tools
+<div>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" style="vertical-align: middle;"/>  &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" style="vertical-align: middle;"/> 
 </div>
 
 </div>
