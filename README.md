@@ -13,7 +13,16 @@ Aberto a oportunidades e projetos desafiadores 🚀
 
 ## 📊 Minhas Estatísticas no GitHub  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Michaud&theme=transparent) <br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Michaud&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Michaud&layout=compact&theme=transparent" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## 💻 Tecnologias e Linguagens
