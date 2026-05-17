@@ -14,9 +14,6 @@ Atualmente evoluindo em desenvolvimento back-end com .NET, aplicando boas práti
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Michaud&theme=transparent" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Michaud&layout=compact&theme=transparent" />
-    </td>
   </tr>
 </table>
 
