@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:022c22,100:22c55e&text=LUIS%20MICHAUD&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=BEM-VINDO%20AO%20MEU%20UNIVERSO%20DE%20C%C3%93DIGO&descAlignY=58&descSize=18&descColor=d1fae5" width="100%" />
 
 <a href="https://github.com/Dev-Michaud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Desenvolvedor+Fullstack;.NET+6%2F8+%7C+C%23+%7C+Java+%7C+Spring+Boot;Clean+Architecture+%26+SOLID;Construindo+back-ends+robustos+e+escal%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Desenvolvedor+Fullstack;.NET+6%2F8+%7C+C%23+%7C+Java+%7C+Spring+Boot;Clean+Architecture+%26+SOLID;Construindo+back-ends+robustos+e+escal%C3%A1veis" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Michaud&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=39D353&style=flat" alt="profile views" />
@@ -82,22 +82,6 @@ const luis = {
 | [**LR-Labs**](https://github.com/Dev-Michaud/LR-Labs) | Site da **L&R Labs** (estúdio de software) — no ar em [lrlabs.com.br](https://lrlabs.com.br/) — `TypeScript` · `React` | fev / 2026 |
 | [**Portfolio-me**](https://github.com/Dev-Michaud/Portfolio-me) | Meu portfólio pessoal — [michaportfolio.vercel.app](https://michaportfolio.vercel.app/) | 2025 |
 | [**Technews**](https://github.com/Dev-Michaud/Technews) | Projeto web de notícias de tecnologia — `JavaScript` | nov / 2025 |
-
----
-
-## 🧭 Missão Atual
-
-```text
-> Carregando objetivos...
-
-[███████████████░░░░░]  .NET / C#              75%
-[█████████████░░░░░░░]  Arquitetura Backend    65%
-[████████████░░░░░░░░]  Java & Spring Boot     60%
-[███████░░░░░░░░░░░░░]  Cloud & DevOps         35%
-[█████████████████░░░]  Construindo Projetos   85%
-
-STATUS: Nunca pare de aprender 📚🚀
-```
 
 ---
 
