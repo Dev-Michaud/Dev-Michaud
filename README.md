@@ -55,6 +55,18 @@ const luis = {
 
 ---
 
+## ⚡ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,cs,dotnet,java,spring,nodejs,mysql,sqlite,git,github,docker,visualstudio,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+---
+
 ## 🚀 Projetos em Destaque
 
 | 🛠️ Projeto | 💡 Descrição | 📅 Período |
