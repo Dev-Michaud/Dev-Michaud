@@ -42,32 +42,16 @@ const luis = {
   idade: 20,
   empresa: "@PrinterdoBrasil",
   stack: {
-    frontend: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    frameworks: ["React", "Vue", "Angular"],
-    backend: ["C#", ".NET", "Java", "Spring Boot", "Node.js", "Python"],
-    banco: ["SQL Server", "MySQL", "PostgreSQL", "SQLite"],
+    frontend: ["JavaScript", "TypeScript"],
+    frameworks: ["React", "Vue"],
+    backend: ["C#", ".NET", "Java", "Spring Boot", "Node.js"],
+    banco: ["SQL Server", "MySQL", "SQLite"],
     ferramentas: ["Git", "GitHub", "Docker", "Visual Studio", "VS Code"]
   },
   principios: ["Clean Architecture", "SOLID", "Entender antes de codar"],
   paixao: "Construir soluções eficientes e sustentáveis 🚀"
 };
 ```
-
----
-
-## ⚡ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,react,vue,angular,nodejs,python,java,spring&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,visualstudio,vscode,figma,postman&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-
-</div>
 
 ---
 
