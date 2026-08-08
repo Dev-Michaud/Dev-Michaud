@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a11cb,100:2575fc&text=LUIS%20MICHAUD&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=WELCOME%20TO%20MY%20CODE%20UNIVERSE&descAlignY=58&descSize=18&descColor=e6e6ff" width="100%" />
 
 <a href="https://github.com/Dev-Michaud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Fullstack+Jr+Developer;C%23+%7C+.NET+%7C+REST+APIs;Clean+Architecture+%26+SOLID;Building+robust%2C+scalable+backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Fullstack+Developer;.NET+6%2F8+%7C+C%23+%7C+Java+%7C+Spring+Boot;Clean+Architecture+%26+SOLID;Building+robust%2C+scalable+backends" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Michaud&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />
@@ -36,16 +36,16 @@ STATUS: ONLINE 🟢
 const luis = {
   name: "Luis Eduardo Carvalho",
   alias: "Dev-Michaud",
-  role: "Fullstack Jr Developer",
-  focus: "C# / .NET back-end",
+  role: "Fullstack Developer",
+  focus: "C# / .NET 6-8 back-end",
   location: "Curitiba, Paraná — Brazil 🇧🇷",
   age: 20,
   company: "@PrinterdoBrasil",
   stack: {
     frontend: ["JavaScript", "TypeScript", "HTML", "CSS"],
     frameworks: ["React", "Vue", "Angular"],
-    backend: ["C#", ".NET", "Node.js", "Python", "Java"],
-    database: ["SQL Server", "MySQL", "PostgreSQL"],
+    backend: ["C#", ".NET", "Java", "Spring Boot", "Node.js", "Python"],
+    database: ["SQL Server", "MySQL", "PostgreSQL", "SQLite"],
     tools: ["Git", "GitHub", "Docker", "Visual Studio", "VS Code"]
   },
   principles: ["Clean Architecture", "SOLID", "Understand before coding"],
@@ -61,7 +61,7 @@ const luis = {
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,react,vue,angular,nodejs,python,java,spring&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,visualstudio,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,visualstudio,vscode,figma,postman&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -76,9 +76,9 @@ const luis = {
 | 🛠️ Project | 💡 Description |
 |-----------|----------------|
 | [**tcc-contabilidade-api**](https://github.com/Dev-Michaud/tcc-contabilidade-api) | Accountant ⇄ Client workflow automation API — `.NET 8` · `SQL Server` · `JWT` · `Clean Architecture` |
-| [**orcamento-ai**](https://github.com/Dev-Michaud/orcamento-ai) | AI financial assistant that understands voice & text commands — `Spring Boot` · `Spring AI` |
+| [**orcamento-ai**](https://github.com/Dev-Michaud/orcamento-ai) | AI financial assistant that understands voice & text commands (Tool Calling) — `Spring Boot` · `Spring AI` |
+| [**Gestao-Financeira**](https://github.com/Dev-Michaud/Gestao-Financeira) | Household expense control system — `ASP.NET Core` + `SQLite` API with a `React` · `TypeScript` frontend |
 | [**triphub-api**](https://github.com/Dev-Michaud/triphub-api) | Travel-booking REST API showcasing 5 GoF design patterns — `Java` · `Spring Boot` |
-| [**Gestao-Financeira**](https://github.com/Dev-Michaud/Gestao-Financeira) | Financial management web app — `TypeScript` |
 | [**LR-Labs**](https://github.com/Dev-Michaud/LR-Labs) | L&R Labs — [lrlabs.com.br](https://lrlabs.com.br/) — `TypeScript` |
 | [**Portfolio-me**](https://github.com/Dev-Michaud/Portfolio-me) | My personal portfolio — [michaportfolio.vercel.app](https://michaportfolio.vercel.app/) |
 | [**Technews**](https://github.com/Dev-Michaud/Technews) | Tech news web project — `JavaScript` |
